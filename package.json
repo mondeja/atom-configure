@@ -1,0 +1,26 @@
+{
+  "name": "atom-configure",
+  "version": "1.0.0",
+  "description": "@mondeja Atom configuration script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mondeja/atom-configure.git"
+  },
+  "keywords": [
+    "atom",
+    "configuration"
+  ],
+  "author": "Álvaro Mondéjar",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mondeja/atom-configure/issues"
+  },
+  "homepage": "https://github.com/mondeja/atom-configure#readme",
+  "dependencies": {
+    "cson": "^7.20.0"
+  }
+}
