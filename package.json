@@ -15,7 +15,7 @@
     "configuration"
   ],
   "author": "Álvaro Mondéjar",
-  "license": "GPL-3.0",
+  "license": "BSD-3-Clause",
   "bugs": {
     "url": "https://github.com/mondeja/atom-configure/issues"
   },
